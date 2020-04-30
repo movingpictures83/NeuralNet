@@ -1,0 +1,2 @@
+Prefix plugins/NeuralNet/example/
+Plugin NeuralNet inputfile parameters.txt outputfile no_time_warp_results_h1n1.csv
